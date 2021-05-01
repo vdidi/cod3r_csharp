@@ -14,7 +14,7 @@ namespace CursoCSharp {
                 { "Herança - OO", Heranca.Executar},
                 // Métodos e funções
                 { "Exemplo Lambda - Métodos e funções", ExemploLambda.Executar},
-                { "Lambdas com Delegates - Métodos e funções", ExemploLambda.Executar}
+                { "Lambdas com Delegates - Métodos e funções", LambdaDelegate.Executar}
             });
 
             central.SelecionarEExecutar();
